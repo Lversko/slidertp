@@ -81,6 +81,7 @@
 
     height: 100%;
     min-height: 53vw;
+    max-height: 650px;
 }
 [dir='rtl'] .slick-slide
 {
